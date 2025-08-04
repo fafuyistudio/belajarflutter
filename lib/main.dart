@@ -20,14 +20,6 @@ class MyApp extends StatelessWidget {
                 backgroundColor: Colors.white,
                 backgroundImage: AssetImage('images/logo.png'),
               ),
-              // ClipOval(
-              //   child: Image.asset(
-              //     'images/logo.png',
-              //     width: 87,
-              //     height: 90,
-              //     fit: BoxFit.cover, // Try BoxFit.contain or BoxFit.fitWidth for different effects
-              //   ),
-              // ),
               SizedBox(height: 20.0),
               Text(
                 'Fafuyi Studio',
